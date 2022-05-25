@@ -5,7 +5,7 @@
     <link>https://parisa-h.github.io/publication/</link>
       <atom:link href="https://parisa-h.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://parisa-h.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,24 +13,59 @@
     </image>
     
     <item>
+      <title>Certifiably Robust Multi-agent Reinforcement Learning against Adversarial Communication</title>
+      <link>https://parisa-h.github.io/publication/cmarl22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/cmarl22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Models with Information-Theoretic Protection Against Membership Inference Attack</title>
+      <link>https://parisa-h.github.io/publication/gans22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/gans22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal Admission Control for Multiclass Queues with Time-Varying Arrival Rates via State Abstraction</title>
       <link>https://parisa-h.github.io/publication/aaai22/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://parisa-h.github.io/publication/aaai22/</guid>
-      <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
-  &lt;div&gt;
-    &lt;h1 id=&#34;click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;div-classalert-alert-note-1&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
-  &lt;div&gt;
-    &lt;h1 id=&#34;create-your-slides-in-markdown---click-the-_slides_-button-to-check-out-the-example&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/h1&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;supplementary-notes-can-be-added-here-including-code-math-and-imageshttpswowchemycomdocswriting-markdown-latex&#34;&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/h1&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and Systems for Performing Non-parametric Stochastic Sequential Assignment of Jobs with Random Arrival Time</title>
+      <link>https://parisa-h.github.io/publication/patent_ssa/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/patent_ssa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Delivery of Correlated Video Content over Cache-Aided Broadcast Networks</title>
+      <link>https://parisa-h.github.io/publication/book_chapter/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/book_chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tradeoffs in Streaming Binary Classification under Limited Inspection Resources</title>
+      <link>https://parisa-h.github.io/publication/icaif21/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/icaif21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-point coordination in massive MIMO systems with sectorized antennas</title>
+      <link>https://parisa-h.github.io/publication/tcom21/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/tcom21/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -38,20 +73,71 @@
       <link>https://parisa-h.github.io/publication/ijcai21/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://parisa-h.github.io/publication/ijcai21/</guid>
-      <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
-  &lt;div&gt;
-    &lt;h1 id=&#34;click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;div-classalert-alert-note-1&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
-  &lt;div&gt;
-    &lt;h1 id=&#34;create-your-slides-in-markdown---click-the-_slides_-button-to-check-out-the-example&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/h1&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;supplementary-notes-can-be-added-here-including-code-math-and-imageshttpswowchemycomdocswriting-markdown-latex&#34;&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/h1&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centralized Caching and Delivery of Correlated Contents over Gaussian Broadcast Channels</title>
+      <link>https://parisa-h.github.io/publication/tcom19/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/tcom19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate-Distortion-Memory Trade-offs in Heterogeneous Caching Networks</title>
+      <link>https://parisa-h.github.io/publication/twcom20/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/twcom20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate-Memory Trade-Off for Caching and Delivery of Correlated Sources</title>
+      <link>https://parisa-h.github.io/publication/tit20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/tit20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadcast Caching Networks with Two Receivers and Multiple Correlated Sources</title>
+      <link>https://parisa-h.github.io/publication/asilomar17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/asilomar17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sectoring in Multi-cell Massive MIMO Systems</title>
+      <link>https://parisa-h.github.io/publication/asilomar17-2/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/asilomar17-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate-Memory Trade-off for the Two-User Broadcast Caching Network with Correlated Sources</title>
+      <link>https://parisa-h.github.io/publication/isit17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/isit17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache-Aided Coded Multicast for Correlated Sources</title>
+      <link>https://parisa-h.github.io/publication/istc16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/istc16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distortion-Memory Tradeoffs in Cache-Aided Wireless Video Delivery</title>
+      <link>https://parisa-h.github.io/publication/alerton15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/alerton15/</guid>
+      <description></description>
     </item>
     
   </channel>
