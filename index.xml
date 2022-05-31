@@ -58,9 +58,9 @@
     
     <item>
       <title>Method and Systems for Performing Non-parametric Stochastic Sequential Assignment of Jobs with Random Arrival Time</title>
-      <link>https://parisa-h.github.io/publication/patent_ssa/</link>
+      <link>https://parisa-h.github.io/removed_content/patent_ssa/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://parisa-h.github.io/publication/patent_ssa/</guid>
+      <guid>https://parisa-h.github.io/removed_content/patent_ssa/</guid>
       <description></description>
     </item>
     
@@ -165,10 +165,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   One
 &lt;/span&gt;
@@ -246,6 +246,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>On Coding for Cache-Aided Delivery of Dynamic Correlated Content</title>
+      <link>https://parisa-h.github.io/publication/jsac18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://parisa-h.github.io/publication/jsac18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Broadcast Caching Networks with Two Receivers and Multiple Correlated Sources</title>
       <link>https://parisa-h.github.io/publication/asilomar17/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -255,9 +263,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Sectoring in Multi-cell Massive MIMO Systems</title>
-      <link>https://parisa-h.github.io/publication/asilomar17-2/</link>
+      <link>https://parisa-h.github.io/removed_content/asilomar17-2/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://parisa-h.github.io/publication/asilomar17-2/</guid>
+      <guid>https://parisa-h.github.io/removed_content/asilomar17-2/</guid>
       <description></description>
     </item>
     
